@@ -1,8 +1,28 @@
-# Coderstats
+# [Svelte Coderstats](https://svelte-coderstats.appseed.us/)
 
-Data visualizations of your top languages, starred repositories and top repos.
+Open-source web app made by using [Svelte](https://svelte.dev/) and [Sapper](https://sapper.svelte.dev/).
 
-![demo](https://media.giphy.com/media/XFjMsqgW5K5nW03ivP/giphy.gif)
+## App Features
+
+- JS Framework: [Svelte](https://svelte.dev/), [Sapper](https://sapper.svelte.dev/)
+- UI Kit: [Bulma CSS](https://bulma.io/)
+- Design Credit: **Robert C. Soriano**
+- **MIT License**
+
+<br />
+
+## Dashboard Links
+
+- [Coderstats](https://github.com/sorxrob/coderstats) - the original starter
+- [Svelte Coderstats](https://svelte-coderstats.appseed.us/) - LIVE Demo
+- Svelte Coderstats Docs - @WIP by AppSeed
+- Svelte Coderstats Product Page - @WIP by AppSeed
+
+<br />
+
+![Svelte Coderstats - Open-Source Web App coded in Svelte.](https://raw.githubusercontent.com/app-generator/static/master/products/svelte-coderstats-intro.gif)
+
+<br />
 
 ## Installing
 
