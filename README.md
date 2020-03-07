@@ -38,6 +38,8 @@ Open-source web app made by using [Svelte](https://svelte.dev/) and [Sapper](htt
    npm run dev
    ```
 
+<br />
+
 ## Built with
 
 - [Svelte](https://svelte.dev/)
@@ -45,13 +47,12 @@ Open-source web app made by using [Svelte](https://svelte.dev/) and [Sapper](htt
 - [Chart.js](https://www.chartjs.org/)
 - [Bulma](https://bulma.io/)
 
-## License & copyright
-
-© Robert C Soriano
-
-Licensed under the [MIT License](LICENSE).
+<br />
 
 ## Acknowledgments
 
 * Clone of bchiang7's React project [Octoprofile](https://github.com/bchiang7/octoprofile)
 * Hat tip to anyone whos module was used
+
+---
+[Svelte Coderstats](https://svelte-coderstats.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
