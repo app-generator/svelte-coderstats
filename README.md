@@ -24,19 +24,23 @@ Open-source web app made by using [Svelte](https://svelte.dev/) and [Sapper](htt
 
 <br />
 
-## Installing
+## Getting started
 
-1. Install dependencies
+### Clone
 
-   ```bash
-   npm install
-   ```
+```bash
+$ git clone https://github.com/app-generator/svelte-coderstats.git
+```
 
-2. Fire up the server and watch files
+### Running the project
 
-   ```bash
-   npm run dev
-   ```
+However you get the code, you can install dependencies and run the project in development mode with:
+
+```bash
+$ cd svelte-coderstats
+$ npm install # or yarn
+$ npm run dev
+```
 
 <br />
 
