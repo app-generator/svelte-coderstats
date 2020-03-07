@@ -54,5 +54,7 @@ Open-source web app made by using [Svelte](https://svelte.dev/) and [Sapper](htt
 * Clone of bchiang7's React project [Octoprofile](https://github.com/bchiang7/octoprofile)
 * Hat tip to anyone whos module was used
 
+<br />
+
 ---
 [Svelte Coderstats](https://svelte-coderstats.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
